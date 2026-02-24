@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+python-multipart
+python-dotenv
+asyncpg
+psycopg2-binary
+sqlalchemy
+geoalchemy2
+geopandas
+# เพิ่ม library สำหรับ parsing geometry ถ้าจำเป็น (เช่น pyogrio แทน fiona/gdal)
+# pyogrio
